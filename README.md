@@ -19,7 +19,7 @@ Explore the world and cherish your cherished spots with this Flutter gem! Whethe
 ## 📸 App Preview
 
 <div align="center">
-  <video src="https://github.com/MichealMoris/Flutter-Favourite-Places/assets/138615256/788e1080-8a10-4928-92a6-a0482cc413ae"/>
+  <video src="https://github.com/MichealMoris/Flutter-Favourite-Places-App/assets/138615256/6821b0df-736e-4962-94e3-54315f2e20c6"/>
 </div>
 
 ## 🏁 Getting Started
